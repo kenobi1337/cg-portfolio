@@ -31,8 +31,8 @@
 			}
 			// line 3 - rotate
 			&:nth-child(3) {
-				background: rgb(197, 38, 38);
 				transform: rotate(-45deg) translate(-1px, -6px);
+				background: rgb(197, 38, 38);
 			}
 		}
 	}
